@@ -1,0 +1,7 @@
+Version: 0.28.3
+Installer:
+- InstallerType: exe
+  InstallerUrl: https://mutemedownloads.s3.us-east-2.amazonaws.com/main/0.28.3/MuteMe-Client-0.28.3 Setup.exe
+- InstallerType: wix
+  InstallerUrl: https://mutemedownloads.s3.us-east-2.amazonaws.com/main/0.28.3/MuteMe-Client.msi
+Locale: []

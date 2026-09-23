@@ -1,0 +1,11 @@
+Version: 0.4.124
+Installer:
+- InstallerUrl: https://updates.alma.now/alma-0.4.124-win-x64.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotes
+  Value: |-
+    0.4.124
+    Bug Fixes
+    - Fixed the Alma logo not updating in several areas when changing the app icon in Settings. The new-chat screen, retro window titles, phone onboarding, accessibility request, and permission overlay now all use the selected icon.
+ReleaseTime: 2026-09-23T11:20:43.3220000Z
