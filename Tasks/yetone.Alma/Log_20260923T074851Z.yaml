@@ -1,0 +1,14 @@
+Version: 0.4.114
+Installer:
+- InstallerUrl: https://updates.alma.now/alma-0.4.114-win-x64.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotes
+  Value: |-
+    Features
+    - Added a Locate button in the file preview header that expands the file tree and highlights the previewed file.
+    - Added a Open in browser button for HTML file previews. It opens the file in the built-in browser using a static preview server, so relative stylesheets and scripts load correctly.
+    - If the HTML preview is already open in a browser tab, the app now brings that tab to the front instead of doing nothing.
+    - HTML previews in the browser skip project detection and do not start a dev server, even if the folder contains a package.json.
+    - Opening HTML previews in the built-in browser is not available for remote workspaces.
+ReleaseTime: 2026-09-23T07:32:38.4210000Z
