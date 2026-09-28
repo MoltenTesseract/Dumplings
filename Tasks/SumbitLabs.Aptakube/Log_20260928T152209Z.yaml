@@ -1,0 +1,6 @@
+Version: 1.21.0
+Installer:
+- Architecture: x64
+  InstallerUrl: https://releases.aptakube.com/Aptakube_1.21.0_x64_en-US.msi
+Locale: []
+ReleaseTime: 2026-09-28T09:11:55.0000000Z
