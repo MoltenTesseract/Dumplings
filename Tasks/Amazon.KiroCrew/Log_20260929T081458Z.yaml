@@ -1,0 +1,8 @@
+Version: 0.7.2
+Installer:
+- InstallerUrl: https://download.crew.kiro.dev/desktop/stable/0.7.2/KiroCrew-Setup.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotesUrl
+  Value: https://github.com/kirodotdev/KiroCrew/releases
+ReleaseTime: 2026-09-29T07:34:17.0000000Z
