@@ -1,0 +1,10 @@
+Version: 0.33.6
+Installer:
+- Architecture: x64
+  InstallerType: nullsoft
+  InstallerUrl: https://download.letta.com/builds/2609306jl5rf4e5/windows/nsis/x64
+Locale:
+- Locale: en-US
+  Key: ReleaseNotesUrl
+  Value: https://github.com/letta-ai/letta-code/releases
+ReleaseTime: 2026-09-30T09:19:33.0000000Z
