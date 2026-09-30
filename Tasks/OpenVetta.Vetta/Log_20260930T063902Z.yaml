@@ -1,0 +1,10 @@
+Version: 0.5.60
+Installer:
+- Architecture: x64
+  InstallerType: inno
+  InstallerUrl: https://releases.openvetta.com/desktop/stable/Vetta-0.5.60-win-x64.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotesUrl
+  Value: https://github.com/openvetta/open-vetta/releases
+ReleaseTime: 2026-09-30T03:00:02.5390000Z
