@@ -1,0 +1,7 @@
+Version: 2.15.0
+Installer:
+- InstallerType: nullsoft
+  InstallerUrl: https://cdn.crabnebula.app/asset/01M3TCXENS11FQZ8HJQ0QH4EQ4?from=%7B%22orgSlug%22%3A%22heidi-scribe%22%2C%22appSlug%22%3A%22scribe%22%2C%22publicPlatform%22%3A%22nsis-x86_64%22%7D
+- InstallerType: wix
+  InstallerUrl: https://cdn.crabnebula.app/asset/01M3TCT06EH5DVSVRPKBNC6DFA?from=%7B%22orgSlug%22%3A%22heidi-scribe%22%2C%22appSlug%22%3A%22scribe%22%2C%22publicPlatform%22%3A%22wix-x86_64%22%7D
+Locale: []
