@@ -1,0 +1,5 @@
+Version: 2026.10.2-build28289+f7ae03be
+Installer:
+- InstallerUrl: https://tandemhealth.blob.core.windows.net/tandem-public/native/Tandem-win-Setup.exe
+Locale: []
+RealVersion: 2026.10.2
