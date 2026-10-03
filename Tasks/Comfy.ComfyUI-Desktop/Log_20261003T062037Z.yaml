@@ -1,0 +1,9 @@
+Version: 1.1.6
+Installer:
+- Architecture: x64
+  InstallerUrl: https://download.todesktop.com/241130tqe9q3y/Comfy Desktop Setup 1.1.6 - Build 261003uci82pdkd-x64.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotesUrl
+  Value: https://github.com/Comfy-Org/Comfy-Desktop/releases
+ReleaseTime: 2026-10-03T05:03:27.0000000Z
