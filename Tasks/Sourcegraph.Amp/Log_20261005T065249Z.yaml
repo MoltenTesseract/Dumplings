@@ -1,0 +1,5 @@
+Version: 0.0.1791173172-g3e7691
+Installer:
+- Architecture: x64
+  InstallerUrl: https://static.ampcode.com/cli/0.0.1791173172-g3e7691/amp-windows-x64-baseline.exe
+Locale: []
