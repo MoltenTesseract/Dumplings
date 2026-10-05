@@ -1,0 +1,9 @@
+Version: 157.0.8086.0
+Installer:
+- Architecture: x86
+  InstallerUrl: https://dl.google.com/release2/chrome/g5opbcybebgkivemdh45ysmtxu_157.0.8086.0/157.0.8086.0_chrome_installer_uncompressed.exe
+- Architecture: x64
+  InstallerUrl: https://dl.google.com/release2/chrome/ac74nbunuzqwvu2hz2cfegqkvota_157.0.8086.0/157.0.8086.0_chrome_installer_uncompressed.exe
+- Architecture: arm64
+  InstallerUrl: https://dl.google.com/release2/chrome/fg6ip2fxzpqnwcme6fsvsfkepi_157.0.8086.0/157.0.8086.0_chrome_installer_uncompressed.exe
+Locale: []
