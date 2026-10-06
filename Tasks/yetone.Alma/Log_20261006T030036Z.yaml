@@ -1,0 +1,14 @@
+Version: 0.4.163
+Installer:
+- InstallerUrl: https://updates.alma.now/alma-0.4.163-win-x64.exe
+Locale:
+- Locale: en-US
+  Key: ReleaseNotes
+  Value: |-
+    0.4.163
+    Features
+    - Drag a project’s “+” onto the edge of a conversation to start a new chat there as a split view.
+    Bug Fixes
+    - Files uploaded from your phone now reach the agent instead of appearing as an “omitted” placeholder.
+    - Heartbeat conversations no longer send unread badges, desktop toasts, or phone notifications when there’s nothing new to report.
+ReleaseTime: 2026-10-06T02:26:31.5390000Z
