@@ -1,0 +1,8 @@
+Version: 26.22.0
+Installer:
+- InstallerUrl: https://broth.itch.zone/install-itch/windows-amd64/1.31.0+808e1c8/archive/default
+Locale:
+- Locale: en-US
+  Key: ReleaseNotesUrl
+  Value: https://github.com/itchio/itch/releases
+InstallerVersion: 1.31.0+808e1c8
