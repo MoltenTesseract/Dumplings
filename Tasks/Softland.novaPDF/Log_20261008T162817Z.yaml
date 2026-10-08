@@ -1,0 +1,10 @@
+Version: 11.9.530
+Installer:
+- InstallerUrl: https://download.novapdf.com/download/setup/novapdf-11.exe
+  InstallerSha256: D52E68495557DF016F310E6505DE9387BE0E06D85C048A4794CCA67875B1713C
+Locale:
+- Locale: en-US
+  Key: ReleaseNotes
+  Value: Check for update certificate validation
+LastModified: Thu, 08 Oct 2026 09:44:46 GMT
+ReleaseTime: 2026-10-08T00:00:00.0000000Z
